@@ -4,19 +4,23 @@ body {
 	text-align: center;
 }
 
-dl {}
 dt {
 	cursor: pointer;
-	font-weight: bold;
-	font-size: 1.5em;
-	line-height: 2em;
-	background: #e3e3e3;
-	border-bottom: 1px solid #c5c5c5;
-	border-top: 1px solid #fff;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #fff;
+    line-height: 2em;
+    background: #9C27B0;
+    border-bottom: 1px solid #03A9F4;
+    border-top: 1px solid #fff;
+    font-family: sans-serif;
 }
 dd {
-	margin: 0;
-	padding: 1em 0;
+	 margin: 0;
+    padding: 1em 0;
+    background: #f5f5f5;
+    font-family: sans-serif;
+    box-shadow: 0 0 2px rgba(0,0,0,.3);
 }
 dt:first-child {
 	border-top: none; 
