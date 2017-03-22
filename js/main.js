@@ -1,4 +1,4 @@
-//  30 days to Learn jQuery by Jeffrey Way Form Tutplus.com
+//  30 days to Learn jQuery by Jeffrey Way From Tutplus.com
 (function() {
 	$('dd').filter(':nth-child(n+4)').addClass('hide');
 
